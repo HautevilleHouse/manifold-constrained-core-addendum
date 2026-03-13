@@ -11,6 +11,7 @@ It exists to keep two public-facing method documents separate from the parent co
 
 - [PUBLIC_WHITE_PAPER.md](PUBLIC_WHITE_PAPER.md)
 - [FRAGMENTED_PROOF_CULTURE_COMPARISON.md](FRAGMENTED_PROOF_CULTURE_COMPARISON.md)
+- [MANIFOLD_CONSTRAINED_CONSTITUTION.md](MANIFOLD_CONSTRAINED_CONSTITUTION.md)
 
 ## Relation To The Core Repo
 
