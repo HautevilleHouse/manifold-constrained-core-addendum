@@ -58,11 +58,11 @@ The manifold-constrained method is a response to those pathologies.
 ## Scope of the Claim
 
 This comparison does not claim that standard mathematics is empty or unserious.
-It claims something narrower and more concrete:
+The claim is narrower and more concrete:
 
 high local rigor does not automatically yield explicit global closure architecture.
 
-The method exists because that distinction matters.
+The manifold-constrained method exists because that distinction matters.
 
 ## Practical Consequence
 
