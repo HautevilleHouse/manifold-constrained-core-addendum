@@ -57,7 +57,7 @@ The manifold-constrained method is a response to those pathologies.
 
 ## Scope of the Claim
 
-This comparison does not claim that standard mathematics is empty or unserious.
+This scope does not claim that standard mathematics is empty or unserious.
 The claim is narrower and more concrete:
 
 high local rigor does not automatically yield explicit global closure architecture.
