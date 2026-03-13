@@ -1,0 +1,22 @@
+title: "Manifold-Constrained Core Addendum"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/manifold-constrained-core-addendum"
+url: "https://github.com/HautevilleHouse/manifold-constrained-core-addendum"
+license: None
+keywords:
+  - manifold-constrained
+  - canonical-lane
+  - local-to-global
+  - epistemology
+  - white-paper
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Manifold-Constrained Core Addendum"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
