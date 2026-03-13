@@ -55,7 +55,7 @@ When global closure is not explicit, several pathologies become easier:
 
 The manifold-constrained method is a response to those pathologies.
 
-## Not Anti-Mathematics
+## Scope of the Claim
 
 This comparison does not claim that standard mathematics is empty or unserious.
 It claims something narrower and more concrete:
@@ -69,8 +69,7 @@ The method exists because that distinction matters.
 A theorem program built under manifold-constrained discipline is easier to audit because it exposes its exact closure obligations.
 That is why the method scales well across multiple problem families.
 
-The goal is not more rhetoric.
-The goal is fewer hidden transitions between local success and global claim.
+The objective is fewer hidden transitions between local success and global claim.
 
 ## Public Reference Points
 
